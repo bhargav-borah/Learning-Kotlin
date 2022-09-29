@@ -8,6 +8,8 @@ fun sayHello2(itemToGreet: String) {
     println(msg)
 }
 
+fun sayHello3(itemToGreet: String) = println("Hello $itemToGreet")
+
 fun main() {
    sayHello1("Universe")
    sayHello2("Multiverse")
