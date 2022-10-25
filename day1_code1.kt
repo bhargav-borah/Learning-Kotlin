@@ -16,6 +16,6 @@ fun main() {
     var name2: String = "Bagga"
     name2 = "Bugs"
     
-	println(myName)    
+    println(myName)    
     
 }
