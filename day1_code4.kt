@@ -1,5 +1,5 @@
 fun main() {
-	val greeting: String? = "Hello"
+    val greeting: String? = "Hello"
     
     // "when" is similar to "switch" in Java
     when(greeting) {
